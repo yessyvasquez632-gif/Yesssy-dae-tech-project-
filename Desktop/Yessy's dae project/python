@@ -1,0 +1,28 @@
+# Step 1. Display a welcome message
+print("Welcome to the die-rolling game!") [1]
+
+playing = True
+
+while playing:
+    # Step 2. Press 1 to roll the die
+    user_input = input("Press 1 to roll the die: ") [1]
+
+    # Step 3. User pressed 1?
+    if user_input == "1": [1]
+        # Computer roll die and generate number between 1 to 6
+die_result = random.randint(1, 6) [1]
+        
+        # Display number
+        print(f"You rolled a: {die_result}") [1]
+    else:
+        # Show an error message
+        print("Error: You did not press 1.") [1]
+
+    # Ask user ‘’ will you like to play again?
+    play_again = input("Will you like to play again? (Yes/No): ") [1]
+
+    # Play again? logic
+    if play_again.lower() == "no": [1]
+        # Thank you for playing our game!
+        print("Thank you for playing our game!") [1]
+        playing = False  # End the loop [1]
