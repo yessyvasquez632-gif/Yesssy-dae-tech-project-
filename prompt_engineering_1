@@ -1,1 +1,114 @@
-
+1. Introduction to the Tutorial
+Welcome, future programmer! Today, you are going to build a "Nail Polish Matcher" program from scratch. This program helps users pick a color or find a polish that matches their skin tone based on a logical set of rules.
+To keep things simple and clear, we will follow three strict rules:
+The Basics Only: We will use only the simplest building blocks of Python. No complex functions or advanced libraries are allowed!
+Line-by-Line Learning: We will present the code first, explain the logic in plain English, and then test your knowledge.
+Knowledge Checks: Every phase concludes with a 3-question quiz. Make sure you understand each part before moving to the next!
+--------------------------------------------------------------------------------
+2. Phase 1: Starting the Program and Welcoming the User
+Every good program starts by greeting the user and letting them know what is happening.
+The Code
+print("Welcome to the Nail Polish Matcher!")
+Teaching Component
+The print() function is the most basic way to communicate. It takes whatever is inside the parentheses and displays it on the screen. In Python, text is called a string. To tell Python that something is a string (and not a command), you must wrap the text in quotation marks (like "this"). Think of print() as the program’s "voice."
+Quiz Component
+What does the print() function do?
+a) It saves data to a file.
+b) It displays text to the user.
+c) It asks the user to type something.
+What is a "string" in Python?
+a) A sequence of text characters.
+b) A type of mathematical equation.
+c) A way to stop a program.
+Why are quotation marks used inside the print() function?
+a) To make the text look pretty.
+b) To identify the text as a string rather than a command.
+c) To tell the program to restart.
+--------------------------------------------------------------------------------
+3. Phase 2: Creating the Main Menu Loop
+We want our program to stay open so the user can try different options without having to restart the script manually.
+The Code
+while True:
+Teaching Component
+A loop is a way to repeat actions. The command while True: creates an "infinite loop." Because the condition is set to "True," the program will keep repeating every line of code indented underneath it forever, until we specifically tell it to break (which we will learn later).
+Quiz Component
+What is the purpose of a while loop?
+a) To run a section of code once.
+b) To repeat a section of code multiple times.
+c) To check for spelling errors.
+What does True signify in while True:?
+a) The loop should run as long as the condition remains true (which is forever here).
+b) The user has typed the correct password.
+c) The program is finished.
+How does Python know which code is "inside" the loop?
+a) The code is highlighted in blue.
+b) The code is indented (moved to the right with spaces).
+c) The code is written in all capital letters.
+--------------------------------------------------------------------------------
+4. Phase 3: Displaying Menu Options and Capturing Input
+Now the program needs to give the user choices and listen for their answer.
+The Code
+    print("1. Pick a color.")
+    print("2. Match skin tone.")
+    selection = input("Please enter your choice (1 or 2): ")
+Teaching Component
+The input() function allows the user to "talk" back to the program. It pauses the program and waits for the user to type something. When they hit Enter, that answer is stored in a variable. A variable is like a labeled container; here, our container is named selection.
+Important Note: The input() function always treats what the user types as text (a string), even if they type a number. This is why we will look for "1" later instead of just 1.
+Quiz Component
+What does the input() function do?
+a) It displays text and then closes the program.
+b) It pauses the program and waits for the user to type a response.
+c) It calculates math problems.
+What is a "variable"?
+a) A named container used to store data for later.
+b) A type of loop.
+c) A message that never changes.
+If a user types the number 1 into an input() prompt, how does Python see it?
+a) As a mathematical number.
+b) As a piece of text (a string).
+c) As a mistake.
+--------------------------------------------------------------------------------
+5. Phase 4: Logic for Option 1 (Color Selection)
+If the user picks the first option, the program needs to react to that specific choice.
+The Code
+    if selection == "1":
+        color = input("What is your preferred color? ")
+        print("You have selected " + color + ".")
+Teaching Component
+An if statement is a "fork in the road." It tells the program: "Only run the indented code IF this specific condition is true." We use == (double equals) to check if the value inside selection is exactly the same as the string "1". Note the quotes around the 1—remember, input() always gives us a string!
+Quiz Component
+What is the difference between = and ==?
+a) = is for numbers, == is for text.
+b) = assigns a value to a variable; == compares two values to see if they are equal.
+c) There is no difference in Python.
+Why do we put quotes around the number "1" in if selection == "1":?
+a) Because input() data is stored as a string, so we must compare it to a string.
+b) To make the code look more professional.
+c) To make the number 1 bigger.
+What happens if the if condition is NOT met (e.g., the user types "3")?
+a) The program crashes.
+b) The program skips the indented code under the if statement.
+c) The program deletes the selection variable.
+--------------------------------------------------------------------------------
+6. Phase 5: Logic for Option 2 (Skin Tone Matching)
+If the user didn't pick "1", we need to check if they picked "2".
+The Code
+    elif selection == "2":
+        tone = input("Enter your skin tone (Warm, Cool, or Neutral). Type 'Unknown' if you are unsure: ")
+Teaching Component
+The elif command stands for "else if." It allows the program to check a second condition only if the first if statement was false. We use it here to handle the user selecting "2". We then ask the user for their skin tone and give them specific options to choose from.
+Quiz Component
+What is the purpose of elif?
+a) To end the program early.
+b) To check an alternative condition if the first if statement wasn't met.
+c) To repeat the loop faster.
+When will the code under elif selection == "2": run?
+a) Every time the program runs.
+b) Only if selection is not "1" AND selection is "2".
+c) Only if the user types "1".
+How many options are we providing the user to type in this specific step?
+a) One (Warm).
+b) Two (Yes or No).
+c) Four (Warm, Cool, Neutral, or Unknown).
+--------------------------------------------------------------------------------
+7. Phase 6: "Pick One For Them" and Validation Logic
