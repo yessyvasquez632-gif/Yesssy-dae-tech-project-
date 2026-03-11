@@ -49,7 +49,7 @@ while continue_program:   # Loop for repeated tasks
     
     repeat_answer = input("Would you like to pick again? (Yes/No): ")
     
-    if repeat_answer == "No":
+    if repeat_answer == "No" or repeat_answer == "no":
         continue_program = False   # Boolean controls loop
 
 
