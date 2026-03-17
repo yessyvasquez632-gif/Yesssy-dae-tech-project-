@@ -1,4 +1,5 @@
-count=[0]
+count = 0
+
 while count < 10:
-      print(count)
-      {count++} count = count++
+    print(count)
+    count += 1
