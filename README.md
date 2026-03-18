@@ -1,4 +1,4 @@
-# Yessy's Tech Cohort Portfolio
+# Yessy's Tech Cohort Portfolio.
 
 Welcome to my personal portfolio and learning repository for the six-month tech cohort! This repository serves as a comprehensive overview of my journey, showcasing the projects I've worked on, the technologies I've learned, and my growth throughout the program.
 
