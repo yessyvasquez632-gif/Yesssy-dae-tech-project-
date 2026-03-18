@@ -8,9 +8,35 @@
 
 ## Professional Summary
 
-- Cybersecurity Threat Response — *In Progress*  
+Highly motivated and detail-oriented professional transitioning into the field of cybersecurity. Currently developing hands-on experience in incident response, threat detection, and security automation through an intensive tech cohort. Eager to apply analytical skills and a passion for problem-solving to a role as an Incident Response Analyst.
+
 - Authorized to work in the US for any employer  
 - Willing to relocate to: Windsor, CT • West Hartford, CT • Hartford, CT • East Hartford, CT  
+
+---
+
+## Cybersecurity Skills
+
+- **Incident Response**: Threat Detection, Digital Forensics, Containment
+- **SIEM/EDR**: Wazuh, Splunk, Microsoft Sentinel
+- **Cloud Security**: AWS (CloudTrail)
+- **Automation (SOAR)**: Shuffle
+- **Scripting**: Python, Bash, PowerShell
+- **Network Analysis**: Wireshark, tcpdump
+- **Vulnerability Assessment**: Nessus, OpenVAS
+- **Frameworks**: MITRE ATT&CK
+
+---
+
+## Key Projects
+
+### The Sentinel Hybrid-SOC
+*A comprehensive security ecosystem for unified threat detection and automated response.*
+
+- Designed and built a simulated Security Operations Center (SOC) integrating **Wazuh (SIEM/EDR)**, **AWS (Cloud)**, and **Shuffle (SOAR)**.
+- Engineered automated workflows to detect, enrich, and contain threats in under 60 seconds, significantly reducing Mean Time to Respond (MTTR).
+- Centralized logs from Windows 10 endpoints and AWS CloudTrail to create a single pane of glass for security visibility.
+- Mapped simulated attacks to the **MITRE ATT&CK framework** to validate detection capabilities.
 
 ---
 
@@ -20,17 +46,15 @@
 **Honey and Beauty Studio — Hamden, CT**  
 *September 2023 – Present*
 
-- Provided high-quality nail services including manicures, pedicures, and nail enhancements  
-- Built strong client relationships through excellent customer service and personalized attention  
-- Assisted in inventory management by monitoring stock levels and placing orders  
-- Implemented safety measures to prevent accidents and injuries  
-- Collaborated with suppliers/vendors to source high-quality products at competitive prices  
+- Built strong client relationships through excellent customer service and personalized attention, demonstrating strong communication skills.
+- Managed inventory and collaborated with vendors, honing organizational and negotiation skills.
+- Maintained a sterile and safe environment, showcasing a keen attention to detail and adherence to strict standards.
 
 ---
 
 ## Education
 
-### Cybersecurity (Tech School)  
+### Cybersecurity (Tech Cohort)  
 **DAE — Stafford, CT**  
 *February 2026 – Present*
 
@@ -40,39 +64,25 @@
 
 ---
 
-## Skills
+## Core Competencies
 
 - Customer Service & Communication  
 - Time Management  
 - Organizational Skills  
 - Attention to Detail  
-- Retail Sales & Transactions  
-- Appointment Scheduling  
-- Hospitality & Guest Services  
-- Food Preparation & Food Safety  
-- Nail Technician Experience  
-- Nail Art & Color Theory  
-- Sanitation & Clean Workspace Maintenance  
-- Teaching (Manicures & General Skills)  
 - Teamwork  
 
 ---
 
 ## Languages
 
-- English  
+- English (Fluent)  
 - Spanish (Fluent)  
 
 ---
 
 ## Certifications & Licenses
 
-- Nail Technician License  
-- Certified Nail Artist  
-- Safe Quality Food Certification  
-- Food Handler Certification  
-- Food Safety Certification  
-- ServSafe  
-- Driver’s License  
-
----
+- Nail Technician License
+- ServSafe & Food Safety Certifications
+- Driver’s License

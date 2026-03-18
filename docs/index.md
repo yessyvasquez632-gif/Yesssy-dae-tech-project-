@@ -1,21 +1,25 @@
 ---
 layout: default
-title: Yessy's Portfolio
+title: Yessy's Cybersecurity Portfolio
 ---
 
 <img src="{{ site.baseurl }}/assets/img/headshot.JPG" alt="Yessy's Headshot" style="width: 200px; border-radius: 50%;">
 
-# Welcome to My Tech Cohort Journey
+# Aspiring Incident Response Analyst
 
-This portfolio documents my journey through a six-month intensive tech cohort. Here, you'll find a showcase of my projects, a summary of the new technologies I'm learning, and a reflection of my growth as a developer. My goal is to transition into a new role leveraging my past experience and the skills gained in this program.
+Welcome to my portfolio. I am a dedicated professional currently pivoting into the field of cybersecurity, with a sharp focus on becoming an Incident Response Analyst. This site showcases my journey through an intensive six-month tech cohort, where I am developing the hands-on skills to investigate, detect, and contain security breaches.
 
-## About the Cohort
+## Featured Project: The Sentinel Hybrid-SOC
 
-This cohort is designed to provide a deep dive into modern technologies and workforce readiness. The program is structured into several semesters, each with a specific focus:
+My capstone project is the **Sentinel Hybrid-SOC**, a security ecosystem designed to provide unified visibility and automated response across both on-premise and cloud environments. By integrating technologies like **Wazuh (SIEM/EDR)**, **AWS**, and **Shuffle (SOAR)**, this project simulates a modern Security Operations Center (SOC) and demonstrates my ability to tackle real-world security challenges.
 
-*   **Semester 1**: Foundational programming with Python.
-*   **Semester 2**: Workforce readiness, including building a professional online presence.
-*   **Semesters 3-5**: Development of a major, in-depth project.
-*   **Semester 6**: Project finalization and portfolio review.
+### Key Skills and Technologies
 
-Feel free to explore my projects and learn more about my journey.
+*   **Incident Response & Digital Forensics**
+*   **SIEM/EDR**: Wazuh, Splunk, Microsoft Sentinel
+*   **Cloud Security**: AWS
+*   **Automation (SOAR)**: Shuffle
+*   **Scripting**: Python, Bash, PowerShell
+*   **Network Analysis**: Wireshark, tcpdump
+
+Feel free to explore my projects and learn more about my qualifications.
