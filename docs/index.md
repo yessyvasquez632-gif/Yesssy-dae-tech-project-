@@ -1,28 +1,21 @@
 ---
 layout: default
-title: Home
+title: Yessy's Portfolio
 ---
 
-<img src="{{ site.baseurl }}/assets/img/headshot.JPG" alt="Your Headshot" style="width: 200px; border-radius: 50%;">
+<img src="{{ site.baseurl }}/assets/img/headshot.JPG" alt="Yessy's Headshot" style="width: 200px; border-radius: 50%;">
 
-# Hello, I'm Yessy!
+# Welcome to My Tech Cohort Journey
 
-Welcome to my portfolio website. I am a passionate Data Analyst with a strong interest in Machine Learning and Data Science. This space is dedicated to showcasing my projects, skills, and experiences.
+This portfolio documents my journey through a six-month intensive tech cohort. Here, you'll find a showcase of my projects, a summary of the new technologies I'm learning, and a reflection of my growth as a developer. My goal is to transition into a new role leveraging my past experience and the skills gained in this program.
 
-Feel free to explore my work and learn more about me.
+## About the Cohort
 
----
+This cohort is designed to provide a deep dive into modern technologies and workforce readiness. The program is structured into several semesters, each with a specific focus:
 
-## Latest Projects
+*   **Semester 1**: Foundational programming with Python.
+*   **Semester 2**: Workforce readiness, including building a professional online presence.
+*   **Semesters 3-5**: Development of a major, in-depth project.
+*   **Semester 6**: Project finalization and portfolio review.
 
-(This section will be populated with links to projects once the projects page is created)
-
----
-
-## My Skills
-
-*   Data Analysis
-*   Machine Learning
-*   Python
-*   SQL
-*   Excel
+Feel free to explore my projects and learn more about my journey.
