@@ -56,7 +56,7 @@ Highly motivated and detail-oriented professional transitioning into the field o
 
 ### Cybersecurity (Tech Cohort)  
 **DAE — Stafford, CT**  
-*February 2026 – Present*
+*February 2026 – June 2026 (Expected)*
 
 ### GED  
 **East Hartford High School — CT**  
