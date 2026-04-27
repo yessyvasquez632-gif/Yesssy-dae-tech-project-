@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio and learning repository for the six-month tech cohort! This repository serves as a comprehensive overview of my journey, showcasing the projects I've worked on, the technologies I've learned, and my growth throughout the program.
 
-## About This Portfolio
+## About This Portfolio.
 
 This repository is structured to reflect the different phases of my tech cohort experience. It includes projects from various semesters, skill development exercises, and resources related to career readiness. My goal is to use this GitHub profile and associated GitHub Pages as a living portfolio to demonstrate my abilities and progress in the tech field.
 
