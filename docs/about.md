@@ -11,7 +11,7 @@ Hello! I'm Yessy, a driven professional with a background in Information Technol
 
 My experience in analyzing data has provided me with a strong foundation in analytical thinking and attention to detail—skills that are critical in the world of digital forensics and intrusion analysis. I've always been drawn to the challenge of finding the "signal in the noise," and I am now applying that same passion to identifying and mitigating security threats.
 
-This career pivot is being guided by a rigorous six-month tech cohort, where I am gaining hands-on experience with the tools and methodologies used by today's top security professionals. My goal is to leverage my analytical background and these new, specialized skills to help organizations protect their most critical assets from cyber threats.
+This career pivot is being guided by a rigorous six-month tech cohort, from which I expect to graduate on July 22, 2026. Through this program, I am gaining hands-on experience with the tools and methodologies used by today's top security professionals. My goal is to leverage my analytical background and these new, specialized skills to help organizations protect their most critical assets from cyber threats.
 
 ## My Mission
 
