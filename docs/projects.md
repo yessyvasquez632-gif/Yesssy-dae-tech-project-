@@ -101,4 +101,4 @@ PCI DSS · HIPAA · NIST SP 800-53 · NIST SP 800-61
 
 I'm an aspiring Incident Response Analyst building hands-on SOC skills through a live, hybrid-cloud detection lab. Every detection in this project came from a real simulation I ran against infrastructure I built myself.
 
-📄 [View My Resume](./YESSY_RESUME.pdf) | 💼 [LinkedIn](https://www.linkedin.com/in/yessyvasquez)
+📄 [View My Resume](./Yessy-Vasquez-Cyber-Security-Researcher.pdf) | 💼 [LinkedIn](https://www.linkedin.com/in/yessyvasquez)
